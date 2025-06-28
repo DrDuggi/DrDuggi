@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hey, ich bin Vince
 
-<!--
-**DrDuggi/DrDuggi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich arbeite leidenschaftlich an Community-Projekten, Servern und Tools, ob als Developer oder als Hoster. Mein Fokus liegt auf Performance, Zuverlässigkeit und sauberem Code.
 
-Here are some ideas to get you started:
+## Was ich mache:
+-  **Systementwicklung** für Server (Lua, Rust, Go)
+-  **Hosting & Infrastruktur** - u.a. Betreiber von [20b20t.org](https://20b20t.org)
+-  **Bugfixing & Performance-Optimierung**
+-  **UI/UX-Design** mit Fokus auf Benutzerfreundlichkeit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologien
+Ich arbeite vor allem mit:
+- **Lua** (Garry’s Mod, Scripted Systems)
+- **Go** (Kompakte Tools, APIs, Serverdienste)
+- **Python** (Automatisierung, Scripte, Tools)
+- gelegentlich auch mit **MySQL**.
+
+## Was ich betreue
+Ich entwickle und betreue Game-Server
+Dabei geht’s nicht nur ums Coden, sondern auch ums Verstehen, Hosten und laufende Verbessern der Spielerfahrung.
+
+---
+
+## 🔧 Aktuelle Projekte:
+- `20b20t.org` – Betrieb, Hosting, Optimierung & Schutzmechanismen  
+- `Modern Gaming (MG)` – Entwicklung eines DarkRP Server
+
+---
+
+## 📫 Kontakt
+- GitHub: [@DrDuggi](https://github.com)
+- Discord: `DrDuggi`  
+- Mail: *VincentBusinessMail@web.de*
